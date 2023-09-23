@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title>my first project </title>
+</head>
+<body bgcolor="lightyellow" background="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY%40.V1_FMjpg_UX1000.jpg&tbnid=2090cEFovP5TqM&vet=1&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0409591%2F&docid=BUoBA9V2ZHC0TM&w=1000&h=1471&hl=en-GB&source=sh%2Fx%2Fim%2Fm5%2F4">
+<marquee direct="left" bgcolor="red" loop="10" height="72pixel" scrollamount="5"><h1>"welcome to anime news"</h1></marquee>
+<h1 align="center">anime world</h1>
+<hr>
+<!--navigation menu-->
+<ul>
+<li> <a href="#one piece">one piece</a></li>
+<li><a href="#naruto">naruto</a></li>
+<li><a href="#contact">contact</a></li></ul>
+<p> Anime refers to a style of animation that originated in Japan and has become popular worldwide.
+ It encompasses a wide range of genres and themes, making it suitable for audiences of all ages.
+ Anime can be hand-drawn or created using computer-generated imagery (CGI) and often features colorful
+artwork, unique character designs, and diverse storytelling.
+
+Anime covers various genres, including action, adventure, romance, fantasy, science fiction, horror,
+and slice of life. It can target children, teenagers, or adults and may explore complex themes and
+social issues.
+Some well-known examples of anime include <strong>"Naruto", "One Piece", "My Hero Academia", "Spirited Away",
+and "Attack on Titan".</strong></p>
+<p>
+Anime has a dedicated fanbase and has made significant contributions to global pop culture, influencing art,
+fashion, and entertainment beyond Japan's borders.
+</p>
+<selection id="one piece"><p>
+<ol type="a">
+<LI><h2>one piece:</h2></LI>
+                  <em> "One Piece" is a popular long-running anime and manga series created by Eiichiro Oda.</em></p>
+
+<p>1. <u>**Pirate Adventure:**</u> "One Piece" follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates,
+ as they search for the ultimate treasure known as the "One Piece" in the vast world of pirates.</p>
+
+<p>2.<u> **Devil Fruits:**</u> In the series, some characters gain unique abilities through consuming Devil Fruits, which come
+ in various types like Paramecia, Zoan, and Logia. Luffy, for example, ate the Gum-Gum Fruit (Gomu Gomu no Mi),
+  granting him rubber-like powers.</p>
+
+<p>3.<u> **World Government:**</u> The world of "One Piece" is governed by the World Government, with the Marines as their
+ military force. The crew often clashes with these organizations, especially with the Warlords of the Sea.</p>
+
+<p>4.<u> **Emotional Depth:**</u> The series explores themes of friendship, justice, and the pursuit of dreams. Many characters
+have intricate backstories that add depth to the narrative.</p>
+
+<p>5.<u> **Ongoing Story:**</u> "One Piece" has been ongoing for many years and has a vast number of episodes and chapters.
+It's known for its intricate plot and character development.</p>
+
+<p>6. <u>**Grand Line:**</u> Most of the series takes place in the Grand Line, a dangerous and unpredictable sea where
+ the crew encounters various islands, mysteries, and powerful foes.</p>
+
+<p>7. <u>**Diverse Crew:**</u> The Straw Hat crew is diverse, with each member having unique skills and dreams. This
+diversity is one of the series' strengths.</p>
+
+<p>8.<u> **Anime and Manga:**</u> The series is available both as an anime and a manga. The manga is the source material
+, and the anime adapts it, often with filler episodes to allow the manga to progress.</p>
+
+<p>9. <u>**Legacy:**</u> "One Piece" has left a significant impact on anime and pop culture worldwide and is known for
+ its dedicated fanbase.</p>
+
+<p>  10. <u>**Ongoing:**</u> As of my last update in September 2021, "One Piece" was still ongoing, with no clear end in
+ sight. It's possible that new developments have occurred since then.
+
+</p>
+</selection>
+<hr>
+<selection id="naruto">
+<p>
+<li><h2>Naruto:</h2>
+                "Naruto" is a popular anime and manga series created by Masashi Kishimoto. "Naruto" follows the journey
+of Naruto Uzumaki, a young ninja with dreams of becoming the strongest ninja and earning the title of
+Hokage, the leader of his village. Along the way, he faces challenges, forms deep bonds with friends
+like Sasuke and Sakura, and discovers the truth about his past and the powerful beast sealed within him, the Nine-Tails Fox.
+The series is known for its action-packed battles, character development, and themes of friendship and perseverance.
+ </p>
+ <p>Certainly, here's a bit more expansion on the "Naruto" anime:</p>
+
+<p><u>**Plot:**</u> "Naruto" is set in a fictional ninja world and primarily follows the life of Naruto Uzumaki, an orphaned ninja of the Hidden Leaf Village. Naruto is an outcast because he carries the Nine-Tails Fox spirit inside him, which attacked the village when he was a baby. Despite this, Naruto is determined to prove himself and become the Hokage, the most respected ninja in the village.</p>
+
+<p><u>**Themes:**</u> The series explores themes of loneliness, acceptance, and the desire to be acknowledged. Naruto's journey is one of personal growth and transformation as he strives to overcome the odds and gain the recognition he craves from his fellow villagers.</p>
+
+<p><u>**Characters:**</u> Along the way, Naruto forms strong bonds with his teammates, Sasuke Uchiha and Sakura Haruno, and they go through numerous trials and missions together. The series also features a wide array of memorable characters, including mentors like Kakashi Hatake and Jiraiya, as well as formidable foes and allies.</p>
+
+<p><u>**Ninjutsu:** </u>"Naruto" is known for its intricate combat system involving various forms of ninjutsu (ninja techniques), genjutsu (illusion techniques), and taijutsu (physical combat). Each character has a unique set of skills and abilities, making battles in the series both strategic and thrilling.</p>
+
+<p><u>**Sequel:**</u> "Naruto" has a sequel series called "Naruto: Shippuden," which continues Naruto's journey as he matures and faces even greater challenges, including powerful adversaries and the search for his missing friend, Sasuke.</p>
+
+<p><u>**Legacy:**</u> "Naruto" has had a significant impact on anime and manga culture globally. It spawned numerous movies, spin-off series, novels, and video games. The character of Naruto himself has become an iconic figure in the world of anime.</p>
+
+<p><u>**Boruto:**</u> In addition to "Naruto: Shippuden," there's a sequel series called "Boruto: Naruto Next Generations" that follows Naruto's son, Boruto Uzumaki, and his own adventures as a young ninja.
+</p>
+</selection>
+<hr>
+<table broder="10" bordecolor="black" background="image.jpg" cellspacing="10">
+<tr bgcolor="lightgreen">
+<th>No.</th>
+<th>anime</th>
+</tr>
+<tr>
+<td>1</td>
+<td>one piece </td>
+</tr>
+<tr>
+<td>2</td>
+<td>naruto</td>
+</tr>
+<tr>
+<td>3</td>
+<td>attack on titan</td>
+</tr>
+<tr>
+<td>4</td>
+<td>my hero academia</td>
+</tr>
+<tr>
+<td>5</td>
+<td>demon slayer</td>
+</tr>
+<tr>
+<td>6</td>
+<td>death note</td>
+</tr>
+<tr>
+<td>7</td>
+<td>vinland saga</td>
+<caption>the popular anime all the time </caption>
+</table>
+<hr>                  
+<selection id="contact">
+<h2>contact us</h2>
+<p>if there is mistake about anime, please inform us.</p>
+<p>email:
+nikhilpoonattil@gmail.com </p>
+<p> phone number:+919745472910 </p>
+<footer>
+  <p>&copy; 2023 Online manga news . All rights reserved.</p>
+</footer>
+</selection>
+</body>
+</html>
